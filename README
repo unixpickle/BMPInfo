@@ -1,0 +1,8 @@
+This is a small set of C functions that allows you to load, change pixels, and write BMP files.
+
+- Todo -
+ * add ability to scale images
+ * add ability to write other types of images
+ * add rotation feature (90 degrees at a time)
+ * add flip feature
+ * add ability to reverse/invert colors
